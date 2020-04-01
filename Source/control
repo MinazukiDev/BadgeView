@@ -1,0 +1,10 @@
+Package: com.minazuki.badgeview
+Name: BadgeView
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Adjust notification badges.
+Depiction: https://minazukidev.github.io/html/BadgeView/index.html
+Maintainer: Minazuki <minazukidev@gmail.com>
+Author: Minazuki <minazukidev@gmail.com>
+Section: Tweaks
